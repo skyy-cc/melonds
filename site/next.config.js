@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'MelonDS',
     description: 'MelodDS For KASM',
     icon: '/img/logo.svg',
-    listUrl: 'https://melonds-registry.skyy.cc/',
+    listUrl: 'https://melonds.pages.dev/',
     contactUrl: 'https://skyy.cc',
   },
   reactStrictMode: true,
